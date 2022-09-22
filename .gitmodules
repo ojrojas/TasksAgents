@@ -1,3 +1,6 @@
 [submodule "TaskAgensweb"]
 	path = TaskAgensweb
 	url = https://github.com/ojrojas/TaskAgensweb.git
+[submodule "Web/TaskAgenstweb"]
+	path = Web/TaskAgenstweb
+	url = https://github.com/ojrojas/TaskAgenstweb.git
