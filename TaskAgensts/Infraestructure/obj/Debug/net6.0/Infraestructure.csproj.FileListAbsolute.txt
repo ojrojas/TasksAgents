@@ -1,0 +1,17 @@
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\bin\Debug\net6.0\TaskAgents.Infraestructure.deps.json
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\bin\Debug\net6.0\TaskAgents.Infraestructure.runtimeconfig.json
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\bin\Debug\net6.0\TaskAgents.Infraestructure.dll
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\bin\Debug\net6.0\TaskAgents.Infraestructure.pdb
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\bin\Debug\net6.0\TaskAgents.Core.dll
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\bin\Debug\net6.0\TaskAgents.Core.pdb
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\TaskAgents.Infraestructure.dll
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\refint\TaskAgents.Infraestructure.dll
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\TaskAgents.Infraestructure.pdb
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+C:\Users\oroja\source\GitHub\TaskAgents\TaskAgensts\Infraestructure\obj\Debug\net6.0\ref\TaskAgents.Infraestructure.dll

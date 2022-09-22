@@ -1,0 +1,3 @@
+[submodule "TaskAgensweb"]
+	path = TaskAgensweb
+	url = https://github.com/ojrojas/TaskAgensweb.git

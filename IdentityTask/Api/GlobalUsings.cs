@@ -1,0 +1,20 @@
+﻿global using Ardalis.ApiEndpoints;
+global using IdentityTask.Core.Dtos;
+global using IdentityTask.Core.Interfaces;
+global using IdentityTask.Core.Services;
+global using IdentityTask.Infraestructure.Cofigurations;
+global using IdentityTask.Infraestructure.TokenClaim;
+global using IdentityTask.Infraestructure.Encrypt;
+global using IdentityTask.Infraestructure.Data;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.IdentityModel.Tokens;
+global using Microsoft.OpenApi.Models;
+global using NLog;
+global using NLog.Web;
+global using Swashbuckle.AspNetCore.Annotations;
+global using System.Text;
+global using Microsoft.AspNetCore.Authorization;
+global using IdentityTask.Api.Extensions;
+

@@ -1,0 +1,9 @@
+﻿global using TaskAgents.Infraestructure.Data;
+global using System.Reflection;
+global using Microsoft.EntityFrameworkCore;
+global using Ardalis.Specification;
+global using Ardalis.Specification.EntityFrameworkCore;
+global using Microsoft.Extensions.Logging;
+global using System.Text.Json;
+global using TaskAgents.Core.Entities;
+global using TaskAgents.Core.Interfaces;

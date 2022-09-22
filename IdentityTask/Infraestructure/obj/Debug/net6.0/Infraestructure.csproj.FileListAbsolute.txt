@@ -1,0 +1,17 @@
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\bin\Debug\net6.0\IdentityTask.Infraestructure.deps.json
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\bin\Debug\net6.0\IdentityTask.Infraestructure.runtimeconfig.json
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\bin\Debug\net6.0\IdentityTask.Infraestructure.dll
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\bin\Debug\net6.0\IdentityTask.Infraestructure.pdb
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\bin\Debug\net6.0\IdentityTask.Core.dll
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\bin\Debug\net6.0\IdentityTask.Core.pdb
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\IdentityTask.Infraestructure.dll
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\refint\IdentityTask.Infraestructure.dll
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\IdentityTask.Infraestructure.pdb
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\Infraestructure.genruntimeconfig.cache
+C:\Users\oroja\source\GitHub\TaskAgents\IdentityTask\Infraestructure\obj\Debug\net6.0\ref\IdentityTask.Infraestructure.dll

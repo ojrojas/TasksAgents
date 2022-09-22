@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9kCrP7G6/Vnb5mfiCK2E9tC3ritdQI1K1MTGTSYUxSE=",
+  "Source": "TaskAgents.Api",
+  "BasePath": "_content/TaskAgents.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
